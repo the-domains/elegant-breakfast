@@ -1,0 +1,14 @@
+layout_spectrum: 0.15269449935294688
+typography_spectrum: 0.0702380072325468
+color:
+  brandStrength: 0.4008094943128526
+  lightness: 0.49042966635897756
+  saturation: 0.33743643085472286
+  rhythmicContrast: 0.04941865405999124
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: Elegant Breakfast
