@@ -1,4 +1,3 @@
-layout_spectrum: 0.15269449935294688
 typography_spectrum: 0.0702380072325468
 color:
   brandStrength: 0.4008094943128526
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.15269449935294688
 name: Elegant Breakfast
 title: Humans see what you want to see.
+description: '- Reaver -'
