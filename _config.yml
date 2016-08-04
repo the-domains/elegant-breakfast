@@ -1,16 +1,16 @@
-typography_spectrum: 0.3277371295262128
+typography_spectrum: 0.0702380072325468
 color:
-  brandStrength: 0.1947267020586878
-  lightness: 0.8450294542126358
-  saturation: 0.700691242935136
-  rhythmicContrast: 0.5576771292835474
+  brandStrength: 0.4008094943128526
+  lightness: 0.49042966635897756
+  saturation: 0.33743643085472286
+  rhythmicContrast: 0.04941865405999124
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.923196506453678
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.15269449935294688
 name: Elegant Breakfast
-title: Humans read what they want to read.
+title: Humans read what they want to read
 description: '- Reaver -'
