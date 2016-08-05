@@ -1,16 +1,28 @@
-typography_spectrum: 0.05019238172098994
+title: Humans read what they want to read
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.12147640506736934
-  lightness: 0.2120220074430108
-  saturation: 0.7697768127545714
-  rhythmicContrast: 0.10862087970599532
+  saturation: 0.7659575
+  brandStrength: 0.1214764050673693
+  lightness: 0.3765957
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.9634499549865723
-name: Elegant Breakfast
-title: Humans read what they want to read
+  rhythmicContrast: 0.7702128
+typography_spectrum: 0.3680851
 description: '- Reaver -'
+layout_spectrum: 1
+name: Elegant Breakfast
